@@ -54,5 +54,6 @@ public class cviceni {
                 System.out.println(i+"x"+i+" = "+mocniny);
             }
         }
+        //coment
     }
 }
